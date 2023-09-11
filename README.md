@@ -38,7 +38,8 @@ The function supports both text-based and binary (image) content.
 Before using this Lambda function, the following prerequisites should be in place:
 
 - An AWS account with appropriate permissions to create and manage Lambda functions.
-- Configuration of environment variables, including the S3 bucket name (e.g., `S3_BUCKET`).
+- Configuration of environment variables, including the S3 bucket name 
+(e.g., `S3_BUCKET`).
 
 ### 4. Installation and Deployment
 
@@ -123,11 +124,17 @@ are captured in Amazon CloudWatch. These metrics include:
 
 ### 9. Contributing
 
-Contributions to this AWS Lambda function documentation are welcome. If you would like to contribute to its development or report issues, please follow the guidelines below:
+Contributions to this AWS Lambda function documentation are welcome. If you would 
+like to contribute to its development or report issues, please follow the 
+guidelines below:
 
 ## 1. Reporting Issues
 
-If you encounter any issues or have suggestions for improvements, please open a GitHub Issue in the repository.
+If you find a bug please fork the repo, create a new branch, fix the bug 
+or implement the improvement and submit a pull request.
+                      OR
+If you encounter any issues or have suggestions for improvements, please 
+open a GitHub Issue in the repository.
 
 ## 2. Contributing Code
 
@@ -135,7 +142,6 @@ If you would like to contribute code changes, please follow these steps:
 
 1. Fork the repository on GitHub.
 2. Create a new branch for your changes.
-3. ...
 
-...
+
 
